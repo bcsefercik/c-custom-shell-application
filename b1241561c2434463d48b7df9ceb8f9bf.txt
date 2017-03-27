@@ -1,0 +1,2 @@
+
+13 13 * * * export DISPLAY=:0 && rhythmbox /home/bcs/Desktop/music.mp3 
